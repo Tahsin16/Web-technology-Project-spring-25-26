@@ -1,0 +1,7 @@
+/public/uploads/*
+!.gitkeep
+
+/vendor/
+/node_modules/
+
+.env
